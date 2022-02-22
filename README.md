@@ -15,3 +15,8 @@
 - Manutenção de Sistemas 30h/Cursando
 - Modelagem de Sistemas 80h/Cursando
 - Teste de Sistemas 60h/Cursando
+<div align="center">
+  <a href="https://github.com/AllanFekizzeti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanFelizzeti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanFelizzeti&layout=compact&langs_count=7&theme=dark"/>
+</div>
